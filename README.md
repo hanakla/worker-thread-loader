@@ -1,4 +1,4 @@
-# worker-thread-loader
+# @hanakla/worker-thread-loader
 
 webpack loader multi threader powered by `worker_thread`.
 
