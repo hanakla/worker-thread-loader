@@ -2,6 +2,12 @@
 
 webpack loader multi threader powered by `worker_thread`.
 
+```
+yarn add -D @hanakla/worker-thread-loader
+```
+
+
+
 ```js
 // webpack.config.js
 module: {
