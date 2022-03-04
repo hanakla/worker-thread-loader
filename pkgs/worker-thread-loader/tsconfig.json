@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "target": "ES2015",
+    "moduleResolution": "Node",
+    "baseUrl": "src"
+  },
+  "files": ["src/loader.ts", "src/worker.ts"]
+}
